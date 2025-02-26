@@ -1,3 +1,5 @@
+Trains a mine sweeping policy as well as a mine burying policy for the game MineSweeper.
+
 # Install
 ```bash
 conda create -n mine_rl python=3.10
